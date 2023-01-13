@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vkrisvasan
-- 👀 I’m interested in Python, ML, DL
+- 👀 I’m interested in Java, Python, API, ML, DL
 - 🌱 I’m currently learning OpenCV
 - 💞️ I’m looking to collaborate on any datascience work
 - 📫 How to reach me vkrisvasan@gmail.com
