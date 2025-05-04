@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vkrisvasan
-- 👀 I’m interested in Java, Python, API, ML, DL
+- 👀 I’m interested in Python, API, ML, DL
 - 🌱 I’m currently learning Gen-AI
 - 💞️ I’m looking to collaborate on any datascience, Gen-AI work
 - 📫 How to reach me vkrisvasan@gmail.com
